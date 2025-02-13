@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Otemane Houcine<br><br>🎓 Computer Science Student (Bac+3)<br>💻 Software Developer & Programmer<br>📍 Algeria<br><br>🚀 About Me<br><br>I am a passionate software developer currently completing my Bac+3 degree in Computer Science. I specialize in web and mobile development, with experience in both front-end and back-end technologies. I am always eager to learn new skills and work on innovative projects.<br><br>💻 Technologies & Skills<br><br>Programming Languages:<br><br>HTML, CSS, JavaScript<br><br>PHP, SQL<br><br>Python, C<br><br>Dart (Flutter)<br><br><br>Frameworks & Tools:<br><br>Bootstrap<br><br>React<br><br>Flutter<br><br><br>📫 Contact Me<br><br>📧 Email: otemane.houcine@univ-bechar.dz
+👨‍💻 Otemane Houcine<br><br>🎓 Computer Science Student (Bac+3)<br>💻 Software Developer & Programmer<br>📍 Algeria<br><br>🚀 About Me<br><br>I am a passionate software developer currently completing my Bac+3 degree in Computer Science. I specialize in web and mobile development, with experience in both front-end and back-end technologies. I am always eager to learn new skills and work on innovative projects.<br><br>💻 Technologies & Skills<br><br><br>Frameworks & Tools:<br><br>Bootstrap<br><br>React<br><br><br><br>📫 Contact Me<br><br>📧 Email: otemane.houcine@univ-bechar.dz
 
 
 ## 🌐 Socials:
